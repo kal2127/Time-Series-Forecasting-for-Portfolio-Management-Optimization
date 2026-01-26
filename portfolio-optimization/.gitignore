@@ -4,6 +4,17 @@ __pycache__/
 *$py.class
 myvenv/
 
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# Trained Model files (LSTM weights, etc.)
+*.h5
+*.keras
+*.pkl
+
+
 # Distribution / packaging
 bin/
 build/
